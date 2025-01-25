@@ -132,7 +132,7 @@
             <h2>Projets</h2>
             <ul>
                 <li><a href="https://github.com/Saiyzzo/Borowec-Enzo/blob/main/Rapport%20de%20stage%20Borowec%20Enzo.pdf">Projet 1 : Projet Stage 2ème année : Serveur VPN</a></li>
-                <li><a href="link_to_project2.html" target="_blank">Projet 2 : Système embarqué</a></li>
+                <li><a href="[link_to_project2.html](https://github.com/Saiyzzo/Borowec-Enzo/blob/main/Compte%20rendu%20Projet%20Train%20BOROWEC.pdf)" target="_blank">Projet application de train</a></li>
                 <li><a href="link_to_project3.html" target="_blank">Projet 3 : Gestion de base de données</a></li>
             </ul>
         </section>
