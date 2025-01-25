@@ -131,7 +131,7 @@
         <section id="projects">
             <h2>Projets</h2>
             <ul>
-                <li><a href="file:///C:/Users/Virtu/OneDrive/Bureau/BUT3/Faqir%20VBA/Projet%20Billet-Train/Compte%20rendu%20Projet%20Train%20BOROWEC.pdf" target="_blank">Projet 1 : Application billet de train VBA</a></li>
+                <li><a href="https://github.com/Saiyzzo/Borowec-Enzo/blob/main/Rapport%20de%20stage%20Borowec%20Enzo.pdf">Projet 1 : Projet Stage 2ème année : Serveur VPN</a></li>
                 <li><a href="link_to_project2.html" target="_blank">Projet 2 : Système embarqué</a></li>
                 <li><a href="link_to_project3.html" target="_blank">Projet 3 : Gestion de base de données</a></li>
             </ul>
